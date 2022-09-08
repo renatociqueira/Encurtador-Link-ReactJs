@@ -1,0 +1,8 @@
+.container-center-error{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #121212; */
+    background: url('../../assets/error.png');
+}
